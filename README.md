@@ -1,6 +1,6 @@
 ## Description
 
-MQTT PubSub client written in dotnet Core and GTK UI, using Mosquitto on darwinistic server.  Comms between ESP8266 and Laptop or Cellphone.  Messages received are echoed to the LCD on the ESP8266.
+MQTT PubSub client written in dotnet Core and GTK UI, using Mosquitto on the darwinistic server.  Comms between ESP8266 and Laptop or Cellphone.  Messages received are echoed to the LCD on the ESP8266.
 
 ![screenshot](GTKScreenShot.png)
 
